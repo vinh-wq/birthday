@@ -1,0 +1,24 @@
+<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Constructor de cajas fuertes</title>
+<style>body{font:16px/1.6 system-ui,sans-serif;max-width:560px;margin:2rem auto;padding:0 1rem;color:#4a3a50}button{font:inherit;padding:.7rem 1.5rem;border:0;border-radius:99px;background:#f3c6d3;cursor:pointer}</style></head><body>
+<h1>Constructor de cajas fuertes</h1>
+<p>Protege cada mensaje con la clave que escribiste en <b>contenidos.js</b>. Esta pagina es solo para ti: no la publiques.</p>
+<button id="go">Generar vault.js</button><p id="out"></p>
+<script src="../sitio/js/crypto.js"></script><script src="contenidos.js"></script>
+<script>
+document.getElementById('go').onclick=async function(){
+  var out=document.getElementById('out'),V={},avisos=[];
+  try{
+    for(var i=1;i<=12;i++){
+      var d=window.CONTENIDOS[i];
+      if(!d||!d.clave||!d.html){out.textContent='Falta la clave o el mensaje del dia '+i+' en contenidos.js.';return;}
+      if(d.clave.trim().length<4)avisos.push('La clave del dia '+i+' es muy corta.');
+      out.textContent='Protegiendo dia '+i+'...';
+      V[i]=await Boveda.cifrar(d.clave,d.html);
+    }
+    var a=document.createElement('a');
+    a.href=URL.createObjectURL(new Blob(['window.VAULT='+JSON.stringify(V)+';'],{type:'text/javascript'}));
+    a.download='vault.js';a.click();
+    out.textContent='Listo. Copia el vault.js descargado a sitio/data/ y reemplaza el anterior. '+avisos.join(' ');
+  }catch(e){out.textContent='No se pudo generar: '+e.message+' (abre esta pagina en Chrome, Edge, Firefox o Safari).';}
+};
+</script></body></html>
