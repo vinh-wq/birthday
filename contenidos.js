@@ -42,16 +42,47 @@ window.CONTENIDOS={
 `},
  2:{clave:"2024",html:`
 <!-- CONTENIDO DE EJEMPLO: reemplaza este título, los párrafos y las fotos. -->
-  <h2>Título de este día</h2>
-  <div class="split">
-    <div class="texto">
-      <p>Escribe aquí tu mensaje para este día. Este párrafo es solo un ejemplo y puedes cambiarlo por cualquier texto.</p>
-      <p>Si quieres otro párrafo, copia una línea que empiece con &lt;p&gt; y termine con &lt;/p&gt; y pégala debajo.</p>
-    </div>
-    <figure class="photo"><img src="../assets/photos/day-02-foto-1.jpg" alt="Describe aquí tu foto" loading="lazy"></figure>
+ <h2>Hay cosas de ti que quizás no notas</h2>
+
+<div class="split">
+  <div class="texto">
+    <p>Hoy quiero hablarte de algo diferente. A veces pienso que quizás no eres consciente de todas esas pequeñas cosas 
+    que tienes y que, de una u otra manera, hacen que seas alguien tan especial para mí.</p>
+
+    <p>Me gusta tu forma de ser, tus ocurrencias, la manera en la que me hablas, porque realmente me conoces bien y yo no soy tanto de hablar y tu llenas ese vacío
+    hablando, hablando y hablando, y no me molesta, al contrario, me gusta escucharte.  
+    Me gusta poder conocerte en diferentes versiones, cuando estás feliz, cuando estás emocionada por algo, cuando me cuentas cualquier cosa que 
+    te pasó durante el día o simplemente cuando compartimos tiempo sin necesidad de hacer algo extraordinario.</p>
   </div>
-  <p>Aquí puedes seguir escribiendo debajo de la foto.</p>
+
+  <figure class="photo">
+    <img src="../assets/photos/day-02-foto-1.jpg" alt="Un recuerdo especial contigo" loading="lazy">
+  </figure>
+</div>
+
+<p>Me gusta que seas tú misma, sin filtros, me gusta que me muestres tus emociones y tus pensamientos, incluso cuando no son perfectos o cuando no sabes cómo expresarlos.
+Porque quiero que sepas que a pesar de que tu no sepas como expresarte, estoy para ayudarte a que lo hagas, y que no me importa si no es perfecto, porque lo que importa es que seas tú y que me dejes conocerte tal como eres, que a día de hoy
+agradezco que me hayas dejado explorar cada parte de ti, me hayas entregado tu confianza de conocer todo de ti y que a pesar de que no siempre estemos de acuerdo, siempre busquemos la manera de entendernos y apoyarnos mutuamente.
+</p>
+
+<p>Quiero que sepas que no tienes que esforzarte por ser perfecta conmigo, ni sentir que debes tener siempre algo bonito que ofrecerme.</p>
+
+<p>También quiero seguir descubriendo cosas de ti. Sé que todavía hay muchos pensamientos que no me has contado, pensamientos que no conozco 
+y experiencias que todavía nos faltan compartir. Y sinceramente, me emociona pensar que todavía tengo muchísimo por conocer de la persona que tengo a mi lado. Porque si, esto a penas es el inicio de algo bonito y duradero.</p>
+
+<p>Espero que nunca pierdas esa esencia tan tuya. Que sigas siendo tú, que sigas persiguiendo lo que quieres, que nunca dejes de emocionarte 
+por las cosas que te gustan y que siempre tengas motivos para sonreír.</p>
+
+<p>Porque si algo tengo claro es que no quiero solamente compartir mi vida contigo, también quiero seguir conociéndote durante todo ese camino y que me dejes ser parte de tu vida.</p>
+
+<p>Felicidades por ya ser PROMO, porque a pesar de que no fue un camino fácil para ti, lo lograste y eso me hace sentir muy orgulloso de ti. y que eres capaz de lograr todo lo que te propongas, eres una niña muy inteligente y capaz y que a pesar de que no siempre te sientas así, yo si lo veo. Estoy orgulloso de ti. </p>
+
+<p class="firma">Con cariño,<br>Tu novio, Bran :p.</p>
 `},
+
+
+
+
  3:{clave:"2025",html:`
 <!-- CONTENIDO DE EJEMPLO: reemplaza este título, los párrafos y las fotos. -->
   <h2>Título de este día</h2>
