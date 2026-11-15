@@ -83,17 +83,50 @@ por las cosas que te gustan y que siempre tengas motivos para sonreír.</p>
 
 
 
- 3:{clave:"2025",html:`
+ 3:{clave:"19/01/2025",html:`
 <!-- CONTENIDO DE EJEMPLO: reemplaza este título, los párrafos y las fotos. -->
-  <h2>Título de este día</h2>
-  <div class="split">
-    <div class="texto">
-      <p>Escribe aquí tu mensaje para este día. Este párrafo es solo un ejemplo y puedes cambiarlo por cualquier texto.</p>
-      <p>Si quieres otro párrafo, copia una línea que empiece con &lt;p&gt; y termine con &lt;/p&gt; y pégala debajo.</p>
-    </div>
-    <figure class="photo"><img src="../assets/photos/day-03-foto-1.jpg" alt="Describe aquí tu foto" loading="lazy"></figure>
+  <h2>Te voliste loca por un like</h2>
+
+<div class="split">
+  <div class="texto">
+    <p>A veces me pongo a pensar en cómo llegamos hasta aquí y en todas las cosas que tuvieron que pasar para que hoy podamos llamarnos novios. Y es curioso, porque si me pongo a recordar, todo comenzó con algo tan sencillo como volver a hablarte. Un mensaje, una conversación y una decisión que, sin saberlo en ese momento, terminaría teniendo un significado enorme en mi vida.</p>
+
+    <p>Quiero que sepas que no me arrepiento de haberte vuelto a hablar, ni de haber tomado la decisión de acercarme nuevamente a ti. Al contrario, es una de esas decisiones de las que me siento muy feliz y agradecido. Y aunque quizás en aquel momento no tenía completamente claro qué podía pasar entre nosotros, sí tenía esa curiosidad y esas ganas de volver a conocerte, de saber cómo estabas y de descubrir si todavía podía existir algo bonito entre los dos.</p>
   </div>
-  <p>Aquí puedes seguir escribiendo debajo de la foto.</p>
+
+    <figure class="photo">
+    <img src="../assets/photos/day-03-foto-2.jpg" alt="" loading="lazy">
+  </figure>
+
+
+  <figure class="photo">
+    <img src="../assets/photos/day-03-foto-1.jpg" alt="" loading="lazy">
+   
+  </figure>
+</div>
+
+<p>Y aquí también quiero mencionar a Leandro, porque, aunque quizás no lo sepa o no dimensione cuánto significó, fue quien me dio ese pequeño impulso que necesitaba para volver a hablarte. A veces una persona puede decirte algo aparentemente sencillo y terminar dándote ese empujoncito que necesitabas para tomar una decisión. Y en este caso, agradezco que haya sucedido, porque gracias a ese impulso me animé a dar un paso que hoy no cambiaría por nada.</p>
+
+<p>Me pongo a pensar en aquellas primeras conversaciones contigo y recuerdo esa sensación tan particular que tenía. Era una mezcla de emoción, curiosidad y nervios que no sabía explicar muy bien. Esa adrenalina de conocer nuevamente a alguien, de esperar una respuesta, de querer saber qué más tenía por contarme y de encontrar cualquier motivo para seguir hablando un poquito más. Era bonito sentir esa emoción de estar descubriendo a una persona y darme cuenta de que cada conversación hacía que quisiera conocerte todavía más.</p>
+
+<p>Creo que hay algo muy especial en esas primeras etapas, cuando todavía estás descubriendo los gustos de alguien, su manera de pensar, sus ocurrencias, sus formas de expresarse y hasta esos pequeños detalles que poco a poco comienzan a llamar tu atención. Y contigo me pasó eso. Había algo que me motivaba a seguir conociéndote, algo que hacía que quisiera saber más de ti y que me emocionara cada vez que teníamos la oportunidad de hablar.</p>
+
+ 
+
+
+
+<p>Lo bonito es que, en aquel entonces, ninguno de los dos sabía exactamente hasta dónde nos llevarían esas conversaciones. Probablemente no imaginábamos que terminaríamos construyendo una relación, compartiendo tanto y llegando al punto en el que estamos hoy. Y mira dónde estamos ahora. Aquellas conversaciones que comenzaron con tanta curiosidad terminaron convirtiéndose en parte del comienzo de nuestra historia.</p>
+
+<p>Por eso, cuando pienso en mi decisión de volver a hablarte. La veo como el comienzo de algo que hoy tiene un lugar muy importante en mi vida. Fue atreverme a acercarme, dejar que las cosas sucedieran y darme la oportunidad de descubrir lo que podía llegar a existir entre nosotros y claro, con todo lo que ya habíamos hablado, pero no estaba consciente de que ibamos a estar de acuerdo los dos de volver a darnos una oportunidad más.</p>
+
+<p>Y si pudiera regresar a ese momento, volvería a hacerlo. Volvería a escribirte, volvería a tener esas primeras conversaciones y volvería a experimentar esa emoción de conocerte, incluso sin saber todo lo que vendría después. Porque ahora conozco una parte de ese camino que en aquel entonces era completamente desconocida, y puedo decirte que me alegra muchísimo haberlo recorrido contigo.</p>
+
+<p>No sé si alguna vez te has puesto a pensar en lo curioso que es que una decisión tan pequeña pueda terminar formando parte de algo tan importante. Yo sí lo hago, y cada vez que lo pienso termino llegando a la misma conclusión: qué bueno que volví a hablarte, qué bueno que me animé y qué bonito que hoy seas tú la persona con quien puedo compartir esta etapa de mi vida.</p>
+
+<p>Gracias por haberme permitido acercarme nuevamente, por responder aquellas primeras conversaciones y por darme también la oportunidad de conocerte desde otra perspectiva respecto a la que me llevé de ti en 2023 y sobre todo 2024 porque por berrinche tuyo te fuiste a meter con la persona menos indicada del mundo, pero pues ya ni modo. </p>
+<p>Y hoy, que tengo la oportunidad de llamarte mi novia, solamente puedo decir que me siento muy feliz de haber tomado aquella decisión. No sé qué habría pasado si las cosas hubieran sido diferentes, me gusta lo que tenemos, me gusta que estemos aquí y me gusta saber que aquella conversación que comenzó una terminó convirtiéndose en nosotros.</p>
+
+<p class="firma">Con todo mi cariño,<br>Tu novio, Bran.</p>
 `},
  4:{clave:"prueba04",html:`
 <!-- CONTENIDO DE EJEMPLO: reemplaza este título, los párrafos y las fotos. -->
