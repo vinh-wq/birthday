@@ -128,17 +128,45 @@ por las cosas que te gustan y que siempre tengas motivos para sonreír.</p>
 
 <p class="firma">Con todo mi cariño,<br>Tu novio, Bran.</p>
 `},
- 4:{clave:"prueba04",html:`
+ 4:{clave:"24/09/2025",html:`
 <!-- CONTENIDO DE EJEMPLO: reemplaza este título, los párrafos y las fotos. -->
-  <h2>Título de este día</h2>
-  <div class="split">
-    <div class="texto">
-      <p>Escribe aquí tu mensaje para este día. Este párrafo es solo un ejemplo y puedes cambiarlo por cualquier texto.</p>
-      <p>Si quieres otro párrafo, copia una línea que empiece con &lt;p&gt; y termine con &lt;/p&gt; y pégala debajo.</p>
+<h2>Un año más, pero esta vez contigo</h2>
+
+<div class="split">
+  <div class="texto">
+    <p>Si hay algo que me gusta de este año, es saber que lo comenzamos siendo novios. Me pongo a pensar en eso y me resulta bonito darme cuenta de que, entre tantas cosas que pudieron pasar, hoy tengo la oportunidad de compartir una etapa más de mi vida contigo. No sé si al comenzar el año imaginábamos todo lo que nos esperaba, las cosas que íbamos a vivir, los momentos que compartiríamos o incluso cuánto íbamos a aprender el uno del otro, pero aquí estamos, viviendo nuestra propia historia.</p>
+
+    <p>Este año ha significado bastante para mí, no solamente por el hecho de poder decir que tengo novia, sino porque he tenido la oportunidad de compartir contigo desde un lugar diferente. Poder llamarte mi novia, tenerte presente en mis días, contarte mis cosas, conocer más de ti y seguir descubriendo cómo es construir una relación con alguien a quien quiero tanto.</p>
+
+    <p>Y aunque no todos los días han sido iguales, puedo decirte que me alegra muchísimo haber compartido este año contigo. Hemos tenido momentos muy bonitos, etapas en las que hemos estado bastante bien, días en los que todo parece fluir y otros en los que simplemente las cosas no salen como esperábamos. Pero creo que precisamente eso también forma parte de estar con alguien: entender que una relación no se construye únicamente con los días buenos, sino también con la disposición de seguir aprendiendo y creciendo juntos.</p>
+  </div>
+
     </div>
     <figure class="photo"><img src="../assets/photos/day-04-foto-1.jpg" alt="Describe aquí tu foto" loading="lazy"></figure>
   </div>
-  <p>Aquí puedes seguir escribiendo debajo de la foto.</p>
+
+<p>Me gusta pensar en todas las cosas que hemos podido compartir durante estos meses. En las veces que hemos salido, en nuestras conversaciones, en los momentos en los que hemos podido estar juntos y en esas pequeñas situaciones que terminan formando parte de nuestra rutina. Quizás para alguien más no sean acontecimientos extraordinarios, pero para mí tienen un valor especial porque son experiencias que he podido vivir contigo.</p>
+
+<p>También quiero que sepas que valoro mucho la oportunidad de seguir conociéndote. Porque una cosa es conocer a alguien cuando todo es nuevo y emocionante, y otra muy distinta es continuar descubriendo a esa persona conforme pasa el tiempo. Conocer sus maneras de pensar, sus cambios de humor, sus gustos, sus metas, las cosas que le emocionan y hasta aquellas que le preocupan.</p>
+
+<p>Este año también me ha hecho pensar bastante en lo que significa tener una relación. Antes podía pensar que bastaba con querer mucho a alguien, pero hoy entiendo que también se trata de demostrarlo, de tener consideración, de escuchar, de respetar, de saber acompañar y de aprender a comprender a la otra persona. No quiero que nuestro noviazgo sea solamente decirnos que nos amamos, quiero que también podamos sentirlo en nuestras acciones, en la confianza que construimos y en la manera en la que nos tratamos.</p>
+
+<p>Y quiero que sepas que no doy por sentado que estés conmigo. Sé que tienes tus propios pensamientos, tus responsabilidades, tus días buenos y tus días complicados. Tienes una vida, sueños y metas que son tuyos, y quiero que puedas seguir construyendo todo eso sin sentir que tener una relación significa dejar de lado quién eres. Al contrario, quiero acompañarte mientras creces, verte conseguir lo que te propones y poder celebrar contigo cada uno de tus logros, sean grandes o pequeños.</p>
+
+<p>Si algo deseo para nosotros es que sigamos encontrando la manera de estar bien, de disfrutar nuestra compañía y de no perder esas ganas de seguir con la relación. Que podamos seguir teniendo conversaciones que nos acerquen, que nunca nos falten motivos para reírnos juntos y que podamos crear una relación en la que ambos sintamos que tenemos a alguien de nuestro lado. No quiero que nos quedemos solamente con lo que ya hemos vivido, porque todavía tenemos muchísimo por experimentar.</p>
+
+<p>Me gustaría que cuando termine este año y podamos mirar hacia atrás, tengamos muchas cosas bonitas que recordar. Que podamos reconocer cuánto hemos crecido, cuánto hemos aprendido y todas las experiencias que conseguimos compartir. Que tengamos nuevas fotografías, nuevas anécdotas, lugares que visitamos, cosas que probamos por primera vez y momentos que nos hagan decir: qué bonito fue vivir eso juntos.</p>
+
+<p>Y aunque no puedo saber exactamente cómo serán los próximos meses, sí puedo decirte lo que quiero de ellos. Quiero seguir contigo, seguir conociéndote, seguir construyendo nuestra relación y continuar demostrando que mi elección no fue algo de un solo momento. Que así como decidí acercarme a ti, también quiero seguir eligiendo cuidar lo que tenemos. Y espero que tu también.</p>
+
+<p>Me siento feliz de que este año nos haya encontrado siendo novios. Me alegra que seas parte de mi presente y que pueda compartir contigo tantas cosas que, de otra manera, habrían sido experiencias completamente diferentes. No sé cuántas veces te he dicho lo mucho que significa para mí tenerte, pero espero que nunca tengas que dudar de que valoro tu presencia y el lugar que ocupas en mi vida.</p> 
+
+<p>Gracias por este año, por cada momento compartido, por las experiencias, las risas, las conversaciones y por permitirme formar parte de tu vida. Gracias por seguir construyendo conmigo y por todas esas pequeñas cosas que hacen que nuestra relación sea nuestra y de nadie más además de que nunca permitamos que nos dejemos llevar por las opiniones ajenas y más sobre todo para ti, que gracias a la rocio de aquellos ayeres, me odiaste.</p>
+
+<p>Y si me preguntaran qué es lo que más me gusta de este año, probablemente respondería que haber tenido la oportunidad de vivirlo contigo. Porque entre todas las cosas que han sucedido, hay una que considero especialmente bonita: que hoy puedo mirar a mi lado y encontrar a la persona que elegí para compartir esta etapa de mi vida.</p>
+
+<p class="firma">Con todo mi cariño,<br>Tu novio, Bran.</p>
+  
 `},
  5:{clave:"prueba05",html:`
 <!-- CONTENIDO DE EJEMPLO: reemplaza este título, los párrafos y las fotos. -->
