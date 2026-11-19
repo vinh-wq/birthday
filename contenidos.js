@@ -128,6 +128,8 @@ por las cosas que te gustan y que siempre tengas motivos para sonreír.</p>
 
 <p class="firma">Con todo mi cariño,<br>Tu novio, Bran.</p>
 `},
+
+
  4:{clave:"24/09/2025",html:`
 <!-- CONTENIDO DE EJEMPLO: reemplaza este título, los párrafos y las fotos. -->
 <h2>Un año más, pero esta vez contigo</h2>
@@ -168,41 +170,81 @@ por las cosas que te gustan y que siempre tengas motivos para sonreír.</p>
 <p class="firma">Con todo mi cariño,<br>Tu novio, Bran.</p>
   
 `},
- 5:{clave:"prueba05",html:`
+ 5:{clave:"01/2026",html:`
 <!-- CONTENIDO DE EJEMPLO: reemplaza este título, los párrafos y las fotos. -->
-  <h2>Título de este día</h2>
-  <div class="split">
+  <h2>Hay muchas cosas que admiro de ti</h2>
+<div class="split">
     <div class="texto">
-      <p>Escribe aquí tu mensaje para este día. Este párrafo es solo un ejemplo y puedes cambiarlo por cualquier texto.</p>
-      <p>Si quieres otro párrafo, copia una línea que empiece con &lt;p&gt; y termine con &lt;/p&gt; y pégala debajo.</p>
-    </div>
-    <figure class="photo"><img src="../assets/photos/day-05-foto-1.jpg" alt="Describe aquí tu foto" loading="lazy"></figure>
+<p>Quiero que hoy sepas que hay muchas cosas de ti que admiro, incluso algunas que quizás tú misma no notas. Me gusta ver cómo eres, cómo piensas, las cosas que te propones y esa manera tan tuya de desenvolverte en la vida.</p>
+</div>
+ <figure class="photo"><img src="../assets/photos/day-05-foto-1.jpg" alt="Describe aquí tu foto" loading="lazy"></figure>
   </div>
-  <p>Aquí puedes seguir escribiendo debajo de la foto.</p>
+
+<p>Admiro tus capacidades, tus esfuerzos y todas esas veces en las que sigues adelante, incluso cuando las cosas no son tan sencillas para ti. Quiero verte cumplir tus metas, alcanzar junto a ti todo aquello que deseas y sentirte orgullosa de la persona en la que te estás convirtiendo.</p>
+
+<p>Espero que nunca dejes de creer en ti, porque tienes muchísimo por ofrecer y muchas cosas bonitas por delante. Y quiero que sepas que me encanta poder estar a tu lado mientras descubres todo lo que eres capaz de conseguir.</p>
+
+<p>Y que sepas que no hace falta que yo te escriba la biblia entera o un testamento, pero que siempre tendrás a alguien que te apoye y no hace falta que te lo diga porque eso ya tu lo sabes, me tienes a mi y ya no estás sola.</p>
+
+<p class="firma">Con cariño,<br>Tu novio, Bran.</p>
+
+
+   
+  
 `},
- 6:{clave:"prueba06",html:`
+ 6:{clave:"02/2026",html:`
 <!-- CONTENIDO DE EJEMPLO: reemplaza este título, los párrafos y las fotos. -->
-  <h2>Título de este día</h2>
+  <h2>Qué bonito es coincidir contigo</h2>
   <div class="split">
     <div class="texto">
-      <p>Escribe aquí tu mensaje para este día. Este párrafo es solo un ejemplo y puedes cambiarlo por cualquier texto.</p>
-      <p>Si quieres otro párrafo, copia una línea que empiece con &lt;p&gt; y termine con &lt;/p&gt; y pégala debajo.</p>
-    </div>
+      <p>¿Sabes qué es algo que me gusta de tenerte en mi vida? Que te has convertido en alguien con quien 
+      quiero compartir hasta las cosas más sencillas de mis días. Me gusta contarte lo que me pasa, claro cuando 
+      puedo, saber cómo te fue, escucharte y conocer esas pequeñas cosas que forman parte de tu rutina.</p>
+
+      <p>Me gusta que podamos compartir nuestros tiempos, nuestras ocurrencias y nuestras conversaciones. 
+      Que podamos reírnos de cualquier tontería y que, sin necesidad de hacer algo, podamos 
+      disfrutar de estar juntos.</p>
+
+<p>Quizás no te lo digo siempre y no porque no quiera, sino porque no puedo, pero me gusta tenerte presente en mi vida. Me gusta saber de ti, interesarme por 
+tus cosas y poder ser parte de tus días, así como tú formas parte de los míos. Porque cuando agarramos distancia realmente no me gusta.</p>
+
+      </div>
     <figure class="photo"><img src="../assets/photos/day-06-foto-1.jpg" alt="Describe aquí tu foto" loading="lazy"></figure>
   </div>
-  <p>Aquí puedes seguir escribiendo debajo de la foto.</p>
+  
+<p>Espero que nunca perdamos esas ganas de seguir compartiendo incluso los días más normales.
+Y como te dije, no ocupo escribirte algo extenso para que sepas que eres importante para mi, porque tu ya lo eres, solo hacerte saber que siempre serás importante.</p>
+
+<p class="firma">Te amo, con cariño,<br>Tu novio, Bran.</p>
+
+
 `},
- 7:{clave:"prueba07",html:`
+ 7:{clave:"03/2026",html:`
 <!-- CONTENIDO DE EJEMPLO: reemplaza este título, los párrafos y las fotos. -->
-  <h2>Título de este día</h2>
+  <h2>Quiero verte feliz</h2>
   <div class="split">
     <div class="texto">
-      <p>Escribe aquí tu mensaje para este día. Este párrafo es solo un ejemplo y puedes cambiarlo por cualquier texto.</p>
-      <p>Si quieres otro párrafo, copia una línea que empiece con &lt;p&gt; y termine con &lt;/p&gt; y pégala debajo.</p>
-    </div>
+
+<p>Hoy quiero recordarte algo que considero muy importante: deseo que seas muy feliz, que consigas todo lo que te propongas y que nunca tengas que hacerte pequeña para encajar en ningún lugar.</p>
+
+<p>Quiero verte crecer, cumplir tus metas, descubrir nuevas cosas y sentirte orgullosa de cada paso que das. Deseo que tengas muchísimas razones para sonreír, personas que te quieran bonito y oportunidades para vivir todas esas experiencias que tanto deseas.</p>
+
+<p>Y, por supuesto, me encantaría poder acompañarte en muchas de esas etapas si es que tu me lo permites. Estar para celebrar tus logros, apoyarte cuando necesites compañía y compartir contigo todas esas pequeñas y grandes cosas que la vida nos vaya presentando.</p>
+   </div>
     <figure class="photo"><img src="../assets/photos/day-07-foto-1.jpg" alt="Describe aquí tu foto" loading="lazy"></figure>
   </div>
-  <p>Aquí puedes seguir escribiendo debajo de la foto.</p>
+
+<p>No quiero que olvides lo valiosa que eres ni todo lo bonito que puedes llegar a conseguir. Sigue siendo tú, sigue soñando y nunca pierdas esas ganas de descubrir lo que la vida tiene preparado para ti.</p>
+
+<p>Te mereces muchísimas cosas bonitas, mi amor. Y espero que la vida te permita experimentarlas todas.</p>
+<p>Y si en algun momento ya no estoy contigo como o lo que sea, que sepas que tu eres capaz de todo, no te detengas y sigue adelante.
+que estes consiente de que tu puedes, y esperemos que nunca te falte para yo poder apoyarte.</p>
+
+<p>Mira, ya 4 días faltan para tu cumpleaños, que tanta emoción sientes tu.</p>
+
+<p class="firma">Con todo mi cariño, Te amo<br>Tu novio, Bran.</p>
+
+
 `},
  8:{clave:"prueba08",html:`
 <!-- CONTENIDO DE EJEMPLO: reemplaza este título, los párrafos y las fotos. -->
